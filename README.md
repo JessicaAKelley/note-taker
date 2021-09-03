@@ -3,7 +3,7 @@
 ## Description
 Note Taker is a server-based application intended to help the user create, save, and delete notes.
 
-[![website demo](https://media.giphy.com/media/Eh6oslb056LzDwF22c/giphy.gif)
+![website demo](https://media.giphy.com/media/Eh6oslb056LzDwF22c/giphy.gif)
 
 ## Table of Contents
 * [Installation](#installation)
